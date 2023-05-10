@@ -1,0 +1,3 @@
+,movie_name,music_name,name,album,artist,release_date,length,popularity,key,mode,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,valence
+0,イレイザー Eraser (1996),Where Do We Go From Here,Where Do We Go From Here,The Amalgamut,Filter,2002-07-30,334933,45,7,1,0.501,0.000273,0.785,0.0123,0.36,-6.205,0.0329,94.109,4,0.211
+1,鬼滅の刃 (2019) ,from the edge,from the edge,from the edge,FictionJunction,2019-09-02,278655,58,1,1,0.352,0.0014,0.926,5.79e-05,0.234,-3.827,0.15,162.051,4,0.157
